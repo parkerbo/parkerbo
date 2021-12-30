@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src='https://komarev.com/ghpvc/?username=parkerbo&color=blueviolet' alt='profile view counter' title='profile view counter'>
 # About Me
 
-#### Hello, I am a software engineer based in Atlanta and enjoy building beautiful applications that provide an engaging user experience. I enjoy the process of starting with an idea, creating a plan of action, navigating through the problem solving process and seeing my idea come to life. Browse my portfolio to take a look at my work!
+#### Hello, I am a software engineer based in Atlanta and enjoy building beautiful applications that provide an engaging user experience. I enjoy the process of starting with an idea, creating a plan of action, navigating through the problem solving process and seeing my idea come to life. Browse my [portfolio](http://parkerbolick.tech) to take a look at my work!
 ---
 
 <p>
